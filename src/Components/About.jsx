@@ -36,7 +36,7 @@ const About = () => {
                 </p>
                 <br />
                 
-                <a href='/riitu_resume.pdf' download={true} className='text-white w-fit px-6 py-3 my-2 flex items-center
+                <a href='https://drive.google.com/file/d/1R7S1NN2gmu6sb6KjjclO8ec3P1xQmFYT/view?usp=drive_link' download={false} className='text-white w-fit px-6 py-3 my-2 flex items-center
                 rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer
                 hover:scale-105 duration-200'>
                         Resume
