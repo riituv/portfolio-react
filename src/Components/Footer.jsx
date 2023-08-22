@@ -29,9 +29,9 @@ const
         ];
 
         return (
-            <div className='container'>
-                <div className='flex flex-col justify-between items-center px-4
-                 w-full text-white  bg-black'>
+            <div>
+                <div className='flex flex-col justify-between items-center
+                 w-full text-white bg-black'>
                     <div>
                      <h2 className='mt-4 font-semibold'>@riitu</h2>
                     </div>

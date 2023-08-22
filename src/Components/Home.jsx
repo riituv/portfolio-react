@@ -29,11 +29,11 @@ const Home = () => {
     ]
 
     return (
-        <div name="home" className='h-screen w-full bg-gradient-to-b
+        <div name="home" className='md:min-h-screen h-auto w-full bg-gradient-to-b
          from-black to-gray-800'>
 
-            <div className='max-w-screen-lg mx-auto flex flex-col 
-            items-center justify-center h-full p-4 md:flex-row'>
+            <div className='max-w-screen w-full mx-auto flex flex-col 
+            items-center justify-center min-h-screen p-4 md:flex-row'>
 
                 <div className='flex flex-col justify-center h-full mr-6'>
 

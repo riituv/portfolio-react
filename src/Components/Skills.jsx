@@ -62,7 +62,7 @@ const Skills = () => {
     ];
     
     return (
-        <div name='skills' className='w-full md:h-screen bg-gradient-to-t
+        <div name='skills' className='w-full h-auto md:min-h-screen bg-gradient-to-t
          from-black to-gray-800'>
 
             <div className='max-w-screen-lg p-4 mx-auto flex flex-col

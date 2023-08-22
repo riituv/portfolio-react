@@ -2,7 +2,7 @@ import React from 'react'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 const About = () => {
     return (
-        <div name='about' className='w-full md:h-screen bg-gradient-to-t
+        <div name='about' className='w-full md:min-h-screen h-auto bg-gradient-to-t
         from-black to-gray-800 text-white'>
 
             <div className='max-w-screen-lg p-4 mx-auto flex flex-col
